@@ -10,4 +10,4 @@ The program for the analysis of Indian summer  monsoon precipitation and ENSO va
 
 #10: Regression program to draw Fig. 3
 
-#11s: Program for the composite analysis as shown in Fig. 4 and Fig. 6 
+#11s: Program for the composite analysis as shown in Fig. 4 and Fig. 6. This program include statistical significant test using Student's T-test.
